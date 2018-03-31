@@ -3,10 +3,6 @@ Trying to make a chat-bot used to queue, play and stop songs on the same spotify
 
 Spotipy is used as a wrapper for the spotiy API. 
 
-A config.py file is hidden from this project as it contains the app ID, secret etc.. 
-To get this working, create a config file with the variables: 
-username ='your-username'
-clientID = 'your-client-ID'
-clientSecret = 'your-client-secret'
-redirectUri ='your-redirect-uri'
-playlistID ='your-playlist-ID'
+## Setup
+The config file has template variables that must be changed with your own spotify credentials please register your [own application](https://developer.spotify.com/my-applications/#!/applications) to get your own clientID and clientSecret. 
+

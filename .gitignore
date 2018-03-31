@@ -100,4 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 .cache-ribe1912
-config.py
+
